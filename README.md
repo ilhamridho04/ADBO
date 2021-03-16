@@ -1,2 +1,2 @@
 # ADBO
-Penugasan Analisis Berorientasi Object
+Penugasan Analisis dan Desain Berorientasi Object
